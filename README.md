@@ -33,10 +33,7 @@ each pixel.
 
 **The python script is only compatible with Linux/Mac operating systems.**
 
-### How to Run::
-- ```python3 driver.py <input_mage_name>```
-- Ex:  ```python3 driver.py sample1.jpeg```
----
+
 ### Output Example
 
 - #### Sample Image1
