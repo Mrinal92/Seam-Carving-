@@ -25,14 +25,6 @@ Apply seam carving content aware image-resizing algorithm on a given image. Take
     ./data/output/rgb_out.txt
   - Generate sample image output ./data/output/sample_out.jpeg
     using the ./data/output/rgb_out.txt.
-### Dependencies:
-- You’ll need to install the python image library Pillow to extract RGB
-values of each pixel and to generate images back from RGB values of
-each pixel.
-- To install Pillow: pip install Pillow
-
-**The python script is only compatible with Linux/Mac operating systems.**
-
 
 ### Output Example
 
