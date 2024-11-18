@@ -1,4 +1,4 @@
-# Image_Resizing
+# SEAM CARVING
 Image Resizing using Seam Carving Algorithm
 
 ## Problem Statement: 
