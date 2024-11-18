@@ -31,28 +31,22 @@ Apply seam carving content aware image-resizing algorithm on a given image. Take
 - #### Sample Image1
   Original Image
   
-   ![Image 1](/data/input/sample4.jpeg)
+   ![sample4-1](https://github.com/user-attachments/assets/27bc4e59-c079-4954-9bfb-1bd5817ab466)
+
   
   Resized Image
   
-   ![Image 2](/data/output/sample_out4.jpeg)
+   ![output4](https://github.com/user-attachments/assets/7cb26fe0-dec2-47ad-856b-966767a55bf9)
+
   
 - #### Sample Image2
   Original Image
   
-   ![Image 3](/data/input/sample1.jpeg)
-  
+   ![sample6](https://github.com/user-attachments/assets/7f7e690b-95f8-4f56-be68-82505f1ff585)
+
   Resized Image
   
-  ![Image 4](/data/output/sample_out1.jpeg)
-  
-- #### Sample Image3
-  Original Image
-  
-   ![Image 5](/data/input/sample3.jpeg)
-  
-  Resized Image
-  
-   ![Image 6](/data/output/sample_out3.jpeg)
+  ![output6](https://github.com/user-attachments/assets/9fb20fd2-c435-4736-9a0a-36c6535e635b)
+
 
 
